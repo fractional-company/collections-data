@@ -26,7 +26,7 @@
     "clean": "rimraf dist",
     "flowbuild": "flow-copy-source src dist",
     "prebuild": "npm run docs && npm run clean && npm run flowbuild",
-    "build": "babel src -d dist",
+    "build": "babel src -d dist --copy-files",
     "prerelease": "npm test && npm run build",
     "release": "standard-version",
     "postpublish": "git push origin master --follow-tags"
