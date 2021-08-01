@@ -1,0 +1,247 @@
+[
+  {
+    "collection": "ENS: Ethereum Name Service",
+    "contracts": [
+      {
+        "address": "0x57f1887a8BF19b14fC0dF6Fd9B2acc9Af147eA85",
+        "tokenIds": []
+      }
+    ]
+  },
+  {
+    "collection": "Axie Infinity",
+    "contracts": [
+      {
+        "address": "0xf5b0a3efb8e8e4c201e2a935f110eaaf3ffecb8d",
+        "tokenIds": []
+      }
+    ]
+  },
+  {
+    "collection": "BYAC",
+    "contracts": [
+      {
+        "address": "0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d",
+        "tokenIds": []
+      }
+    ]
+  },
+  {
+    "collection": "Decentraland",
+    "contracts": [
+      {
+        "address": "0xF87E31492Faf9A91B02Ee0dEAAd50d51d56D5d4d",
+        "tokenIds": []
+      }
+    ]
+  },
+  {
+    "collection": "Cryptokitties",
+    "contracts": [
+      {
+        "address": "0x06012c8cf97BEaD5deAe237070F9587f8E7A266d",
+        "tokenIds": []
+      }
+    ]
+  },
+  {
+    "collection": "CryptoPunks",
+    "contracts": [
+      {
+        "address": "0xb47e3cd837ddf8e4c57f05d70ab865de6e193bbb",
+        "tokenIds": []
+      },
+      {
+        "address": "0xb7f7f6c52f2e2fdb1963eab30438024864c313f6",
+        "tokenIds": []
+      }
+    ]
+  },
+  {
+    "collection": "Cryptovoxels",
+    "contracts": [
+      {
+        "address": "0x79986af15539de2db9a5086382daeda917a9cf0c",
+        "tokenIds": []
+      }
+    ]
+  },
+  {
+    "collection": "EulerBeats",
+    "contracts": [
+      {
+        "address": "0x8754f54074400ce745a7ceddc928fb1b7e985ed6",
+        "tokenIds": []
+      },
+      {
+        "address": "0xa98771a46dcb34b34cdad5355718f8a97c8e603e",
+        "tokenIds": []
+      }
+    ]
+  },
+  {
+    "collection": "Hashmasks",
+    "contracts": [
+      {
+        "address": "0xc2c747e0f7004f9e8817db2ca4997657a7746928",
+        "tokenIds": []
+      }
+    ]
+  },
+  {
+    "collection": "Meebits",
+    "contracts": [
+      {
+        "address": "0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7",
+        "tokenIds": []
+      }
+    ]
+  },
+  {
+    "collection": "The Sandbox",
+    "contracts": [
+      {
+        "address": "0x50f5474724e0ee42d9a4e711ccfb275809fd6d4a",
+        "tokenIds": []
+      }
+    ]
+  },
+  {
+    "collection": "Snownden, Stay Free",
+    "contracts": [
+      {
+        "address": "0x3B3ee1931Dc30C1957379FAc9aba94D1C48a5405",
+        "tokenIds": [24437]
+      }
+    ]
+  },
+  {
+    "collection": "Somnium Space VR",
+    "contracts": [
+      {
+        "address": "0x913ae503153d9a335398d0785ba60a2d63ddb4e2",
+        "tokenIds": []
+      }
+    ]
+  },
+  {
+    "collection": "Sorare",
+    "contracts": [
+      {
+        "address": "0x629a673a8242c2ac4b7b8c5d8735fbeac21a6205",
+        "tokenIds": []
+      }
+    ]
+  },
+  {
+    "collection": "Wizzards",
+    "contracts": [
+      {
+        "address": "0x521f9C7505005CFA19A8E5786a9c3c9c9F5e6f42",
+        "tokenIds": []
+      }
+    ]
+  },
+   {
+    "collection": "XCOPY",
+    "contracts": [
+      {
+        "address": "0xb932a70a57673d89f4acffbe830e8ed7f75fb9e0",
+        "tokenIds": []
+      }
+    ]
+  },
+   {
+    "collection": "Beeple",
+    "contracts": [
+      {
+        "address": "0xc170384371494b2a8f6ba20f4d085c4dde763d96",
+        "tokenIds": [100010078]
+      },
+      {
+        "address": "0x12f28e2106ce8fd8464885b80ea865e98b465149",
+        "tokenIds": [100030015, 100010001]
+      },
+      {
+        "address": "0xdd012153e008346591153fff28b0dd6724f0c256",
+        "tokenIds": [100050068, 100040026, 100030023]
+      }
+    ]
+  },
+  {
+    "collection": "Artblocks",
+    "contracts": [
+      {
+        "address": "0x059edd72cd353df5106d2b9cc5ab83a52287ac3a",
+        "tokenIds": []
+      },
+      {
+        "address": "0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270",
+        "tokenIds": []
+      }
+    ]
+  },
+  {
+    "collection": "Cool Cats",
+    "contracts": [
+      {
+        "address": "0x1a92f7381b9f03921564a437210bb9396471050c",
+        "tokenIds": []
+      }
+    ]
+  },
+  {
+    "collection": "The Fungible by Pak",
+    "contracts": [
+      {
+        "address": "0xc0cf5b82ae2352303b2ea02c3be88e23f2594171",
+        "tokenIds": []
+      }
+    ]
+  },
+  {
+    "collection": "BlockCities",
+    "contracts": [
+      {
+        "address": "0x2f2d5aa0efdb9ca3c9bb789693d06bebea88792f",
+        "tokenIds": []
+      }
+    ]
+  },
+  {
+    "collection": "Emblem Vault V2",
+    "contracts": [
+      {
+        "address": "0x82c7a8f707110f5fbb16184a5933e9f78a34c6ab",
+        "tokenIds": []
+      }
+    ]
+  },
+  {
+    "collection": "Degenz",
+    "contracts": [
+      {
+        "address": "0xfb9e9e7150ccebfe42d58de1989c5283d0eaab2e",
+        "tokenIds": []
+      }
+    ]
+  },
+  {
+    "collection": "JOYWORLD",
+    "contracts": [
+      {
+        "address": "0x6c7b6cc55d4098400ac787c8793205d3e86c37c9",
+        "tokenIds": []
+      }
+    ]
+  },
+  {
+    "collection": "AVASTAR",
+    "contracts": [
+      {
+        "address": "0xf3e778f839934fc819cfa1040aabacecba01e049",
+        "tokenIds": []
+      }
+    ]
+  }
+]
