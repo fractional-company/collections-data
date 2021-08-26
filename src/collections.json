@@ -360,5 +360,14 @@
         "tokenIds": []
       }
     ]
+  },
+  {
+    "collection": "TWINS",
+    "contracts": [
+      {
+        "address": "0x3c28de567d1412b06f43b15e9f75129625fa6e8c",
+        "tokenIds": [0]
+      }
+    ]
   }
 ]
