@@ -2080,5 +2080,14 @@
         "tokenIds": []
       }
     ]
+  },
+  {
+    "collection": "Tom Sachs Rocket Components",
+    "contracts": [
+      {
+        "address": "0x11595ffb2d3612d810612e34bc1c2e6d6de55d26",
+        "tokenIds": []
+      }
+    ]
   }
 ]
