@@ -1080,8 +1080,6 @@
       }
     ]
   },
-
-
   {
     "collection": "0N1 Force",
     "contracts": [
@@ -2086,6 +2084,15 @@
     "contracts": [
       {
         "address": "0x11595ffb2d3612d810612e34bc1c2e6d6de55d26",
+        "tokenIds": []
+      }
+    ]
+  },
+  {
+    "collection": "Loot (for Adventurers)",
+    "contracts": [
+      {
+        "address": "0xff9c1b15b16263c61d017ee9f65c50e4ae0113d7",
         "tokenIds": []
       }
     ]
