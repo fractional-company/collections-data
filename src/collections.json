@@ -2114,5 +2114,32 @@
         "tokenIds": []
       }
     ]
+  },
+  {
+    "collection": "KnownOriginDigitalAsset",
+    "contracts": [
+      {
+        "address": "0xABB3738f04Dc2Ec20f4AE4462c3d069d02AE045B",
+        "tokenIds": []
+      }
+    ]
+  },
+  {
+    "collection": "CITY BLOCKS",
+    "contracts": [
+      {
+        "address": "0x5964035A710b3faC48Be8B0beeB8d11902B480F3",
+        "tokenIds": []
+      }
+    ]
+  },
+  {
+    "collection": "Xer0",
+    "contracts": [
+      {
+        "address": "0x4c39b60B458FaB2A2355B5FCCB2680849ffA470C",
+        "tokenIds": []
+      }
+    ]
   }
 ]
