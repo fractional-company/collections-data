@@ -2141,5 +2141,14 @@
         "tokenIds": []
       }
     ]
+  },
+  {
+    "collection": "CrypToadz",
+    "contracts": [
+      {
+        "address": "0x1cb1a5e65610aeff2551a50f76a87a7d3fb649c6",
+        "tokenIds": []
+      }
+    ]
   }
 ]
