@@ -2150,5 +2150,14 @@
         "tokenIds": []
       }
     ]
+  },
+  {
+    "collection": "loomlocknft",
+    "contracts": [
+      {
+        "address": "0x1D20A51F088492A0f1C57f047A9e30c9aB5C07Ea",
+        "tokenIds": []
+      }
+    ]
   }
 ]
