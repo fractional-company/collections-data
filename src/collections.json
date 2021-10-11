@@ -2159,5 +2159,14 @@
         "tokenIds": []
       }
     ]
+  },
+  {
+    "collection": "Creature World",
+    "contracts": [
+      {
+        "address": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+        "tokenIds": []
+      }
+    ]
   }
 ]
