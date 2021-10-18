@@ -2168,5 +2168,23 @@
         "tokenIds": []
       }
     ]
+  },
+  {
+    "collection": "MekaVerse",
+    "contracts": [
+      {
+        "address": "0x9a534628b4062e123ce7ee2222ec20b86e16ca8f",
+        "tokenIds": []
+      }
+    ]
+  },
+  {
+    "collection": "CryptoFlyz",
+    "contracts": [
+      {
+        "address": "0xf8b0a49da21e6381f1cd3cf43445800abe852179",
+        "tokenIds": []
+      }
+    ]
   }
 ]
